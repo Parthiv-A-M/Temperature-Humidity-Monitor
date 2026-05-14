@@ -17,7 +17,7 @@ This IoT project uses an ESP32 and DHT11 sensor to measure real-time temperature
 |-----------|------------|
 | VCC       | 3.3V       |
 | GND       | GND        |
-| DATA      | GPIO 4     |
+| DATA      | D4     |
 
 ---
 
