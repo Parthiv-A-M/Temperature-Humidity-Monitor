@@ -1,8 +1,8 @@
-# ESP32 Temperature and Humidity Monitor 🌡️
+# ESP32 Temperature and Humidity Monitor 
 
 This IoT project uses an ESP32 and DHT11 sensor to measure real-time temperature and humidity.
 
-## 📌 Components Used
+## Components Used
 - ESP32 Dev Module
 - DHT11 Sensor
 - Breadboard
@@ -11,7 +11,7 @@ This IoT project uses an ESP32 and DHT11 sensor to measure real-time temperature
 
 ---
 
-## 🔌 Circuit Connections
+##  Circuit Connections
 
 | DHT11 Pin | ESP32 Pin |
 |-----------|------------|
@@ -21,7 +21,7 @@ This IoT project uses an ESP32 and DHT11 sensor to measure real-time temperature
 
 ---
 
-## ⚙️ Features
+##  Features
 - Real-time temperature monitoring
 - Real-time humidity monitoring
 - Serial Monitor output
@@ -29,14 +29,14 @@ This IoT project uses an ESP32 and DHT11 sensor to measure real-time temperature
 
 ---
 
-## 🖥️ Software Used
+##  Software Used
 - Arduino IDE
 - ESP32 Board Package
 - DHT Sensor Library
 
 ---
 
-## 📷 Project Images
+##  Project Images
 
 ### Circuit Setup
 ![Circuit](Circuit.jpeg)
@@ -52,14 +52,14 @@ This IoT project uses an ESP32 and DHT11 sensor to measure real-time temperature
 
 ---
 
-## 📈 Sample Output
+##  Sample Output
 
 Temperature: 32.30 °C  
 Humidity: 59.00 %
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Upload data to ThingSpeak
 - Add OLED display
 - Mobile app monitoring
@@ -67,5 +67,5 @@ Humidity: 59.00 %
 
 ---
 
-## 👨‍💻 Developed By
+##  Developed By
 Parthiv Murugesh
