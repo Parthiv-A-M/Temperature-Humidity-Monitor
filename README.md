@@ -1,6 +1,6 @@
-# ESP32 Temperature and Humidity Monitor 
+# Temperature and Humidity Monitor using DHT11 and ESP32
 
-This IoT project uses an ESP32 and DHT11 sensor to measure real-time temperature and humidity.
+This IoT project uses an DHT11 sensor and ESP32 to measure real-time temperature and humidity.
 
 ## Components Used
 - ESP32 Dev Module
